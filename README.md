@@ -1,3 +1,3 @@
-A little bit about me \n
-Im a study java \n
+A little bit about me
+Im a study java
 And im so serious
