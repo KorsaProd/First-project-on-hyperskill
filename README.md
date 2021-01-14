@@ -1,3 +1,1 @@
-A little bit about me
-Im a study java
-And im so serious
+A simple chatbot that can guess your age
